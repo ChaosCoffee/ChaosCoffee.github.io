@@ -1,4 +1,3 @@
-# ChaosCofee
-> [个人博客](https://chaosCoffee.github.io)  
+# README
 
-> [GitHub](https://github.com/ChaosCoffee/ChaosCoffee.github.io)
+> 《水经》云：“彭蠡之口有石钟山焉。”郦元以为下临深潭，微风鼓浪，水石相搏，声如洪钟。是说也，人常疑之。今以钟磬置水中，虽大风浪不能鸣也，而况石乎！至唐李渤始访其遗踪，得双石于潭上，扣而聆之，南声函胡，北音清越，桴止响腾，余韵徐歇。自以为得之矣。然是说也，余尤疑之。石之铿然有声者，所在皆是也，而此独以钟名，何哉？
