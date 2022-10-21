@@ -2,7 +2,9 @@
   - [基础](java/user.md)
   - [设计](java/第二章节.md)
   - [介绍](java/第三章节.md)
-- **Java**
+- **JVM**
   - [整理](java/user.md)
   - [垃圾回收](java/第二章节.md)
   - [内存管理](java/第三章节.md)
+- **指南**
+  - [搭建个人博客](guide/docsify.md)
