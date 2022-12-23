@@ -8,6 +8,6 @@
   - [内存管理](java/第三章节.md)
 - **面试题**
   - [Java](interview/Java面试题.md)
-  - [Redis]
+  - [Jvm](interview/Jvm面试题.md)
 - **指南**
   - [搭建个人博客](guide/docsify.md)
